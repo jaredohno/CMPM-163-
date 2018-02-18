@@ -1,0 +1,15 @@
+README - CMPM 163 Assignment 2
+Jared Ono
+jsono@ucsc.edu
+
+Part A: 
+Created a scene w/ a cubemap and terrain created from a heightmap. The dat.gui slider controls the scaling of the displacement 
+and there are three Planes of water with reflective/refractive properties (three.water). Used examples from class as base code.
+
+
+Part B:
+Used GPUParticleSystem.js to create an oscillating particle system. It started out as a shooting star 
+(was hoping it would be of some use in 170 game) but the ripple effects that almost look like wings seemed cooler to me.
+Sorry this isn’t exactly a “natural phenomenon”, I ended up fiddling around with everything more than I should have. 
+Also includes Perlin noise example from class within the particle system.
+
