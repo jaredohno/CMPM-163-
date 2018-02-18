@@ -2,6 +2,8 @@ README - CMPM 163 Assignment 2
 Jared Ono
 jsono@ucsc.edu
 
+**screenshots above
+
 Part A: 
 Created a scene w/ a cubemap and terrain created from a heightmap. The dat.gui slider controls the scaling of the displacement 
 and there are three Planes of water with reflective/refractive properties (three.water). Used examples from class as base code.
